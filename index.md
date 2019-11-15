@@ -1,4 +1,4 @@
-## Selected Projects
+## Work In Progress
 ---
 [Furniture Bank | Data Viz for Social Good]
 <img src="images/furniture_bank.jpg"/>
