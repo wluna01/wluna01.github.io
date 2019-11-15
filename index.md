@@ -1,12 +1,10 @@
-## Portfolio
+## Selected Projects
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+### Furniture Bank | Data Viz for Social Good 
+<img src="images/furniture_bank.jpg?raw=true"/>
+[Notebook](https://kaggle.com/wluna01/furniture-bank-data-viz-for-social-good-project)
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -31,5 +29,4 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<p style="font-size:11px">template from evanca</p>
