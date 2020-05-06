@@ -1,10 +1,10 @@
-title: Will Luna # your name (or website title) here
+title: # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <a href="https://www.linkedin.com/in/willluna/">LinkedIn</a> 
+  <a href="https://www.linkedin.com/in/willluna/" target="_blank">LinkedIn</a> 
+  <a href="https://www.kaggle.com/wluna01/notebooks" target="_blank">Kaggle</a>
+  <a href="https://twitter.com/wluna01" target="_blank">Twitter</a> 
   <br>
-  <a href="https://www.kaggle.com/wluna01">Kaggle</a>
-  <br>
-  <a href="https://twitter.com/wluna01">Twitter</a> 
+  <a href="https://lunaandchris.wordpress.com/2016/12/04/in-a-perfect-world/" target="_blank">Reflections on my first mobile app</a>
 theme: jekyll-theme-minimal
 google_analytics: UA-152639068-1 # your Google Analytics tracking ID here
