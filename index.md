@@ -7,6 +7,4 @@
 
 ### Visualizing Intellectual Influence on Twitter
 <img src="images/intellectual_twitter.jpg"/>
-[Tableau Dashboard](https://public.tableau.com/profile/will.luna#!/vizhome/IntellectualInfluenceinTwitterPosts/Dashboard1?publish=yes)
-
-[Jupyter Notebook](https://www.kaggle.com/wluna01/getoldtweets3-nltk-data-viz)
+[Tableau Dashboard](https://public.tableau.com/profile/will.luna#!/vizhome/IntellectualInfluenceinTwitterPosts/Dashboard1?publish=yes) | [Jupyter Notebook](https://www.kaggle.com/wluna01/getoldtweets3-nltk-data-viz)
