@@ -4,8 +4,7 @@
 
 ### Resurrecting the Billboard Top 100 
 <img src="images/resurrected_hits.jpg"/>
-[Tableau Dashboard](https://public.tableau.com/profile/will.luna#!/vizhome/IntellectualInfluenceinTwitterPosts/Dashboard1?publish=yes){:target="_blank"}
-[Jupyter Notebook](https://www.kaggle.com/wluna01/billboard-top-100-resurrections){:target="_blank"}
+[Tableau Dashboard](https://public.tableau.com/profile/will.luna#!/vizhome/Billboard100ResurrectedHitsStory/ChartToppersThatNeverDie?publish=yes){:target="_blank"}{:target="_blank"} | [Jupyter Notebook](https://www.kaggle.com/wluna01/billboard-top-100-resurrections){:target="_blank"}
 
 ---
 
