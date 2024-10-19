@@ -1,16 +1,9 @@
 title: Will Luna # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <a href="https://www.linkedin.com/in/willluna/" target="_blank">LinkedIn</a> 
-  <br>
+  <a href="https://www.linkedin.com/in/willluna/" target="_blank">LinkedIn</a><br> 
+  <strong>Education:</strong><br>
+  Bachelor of Arts in Cognitive Science, Tufts University (2017)<br>
+  Master of Science in Computer Science, Georgia Institute of Technology (Expected 2026)<br>
 theme: jekyll-theme-minimal
 google_analytics: UA-152639068-1 # your Google Analytics tracking ID here
-
-education:
-  - degree: "Bachelor of Arts in Cognitive Science"
-    institution: "Tufts University"
-    graduation_year: "2017"
-
-  - degree: "Master of Science in Computer Science"
-    institution: "Georgia Institute of Technology"
-    graduation_year: "2026"
