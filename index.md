@@ -8,7 +8,7 @@
 ![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
 ![Snowflake](https://img.shields.io/badge/Cloud-Snowflake-blue)
 <img src="images/webinar.jpg"/>
-[Presentation](https://drive.google.com/file/d/1UsG7KTrmrV3roWW57z3CoKivohnhV1w_/view?usp=sharing) | [GitHub](https://github.com/Snowflake-Labs/sf-samples/blob/main/samples/notebooks/anaconda_webinar/anaconda_webinar_notebook.ipynb)
+[Presentation](https://drive.google.com/file/d/1UsG7KTrmrV3roWW57z3CoKivohnhV1w_/view?usp=sharing){:target="_blank"} | [GitHub](https://github.com/Snowflake-Labs/sf-samples/blob/main/samples/notebooks/anaconda_webinar/anaconda_webinar_notebook.ipynb){:target="_blank"}
 
 ---
 
@@ -16,7 +16,7 @@
 ![Python](https://img.shields.io/badge/Code-Python-blue)
 ![NLP](https://img.shields.io/badge/Topic-NLP-green)
 <img src="images/paper_replication.jpg"/>
-[Paper](https://drive.google.com/file/d/11vm0n6k4tR8z98JXeScV73BTlVG4s9Ju/view?usp=sharing) | [Presentation](https://drive.google.com/file/d/1qPp-eOMebVtvs7e72K-F63vYiY_nanGP/view?usp=sharing)
+[Paper](https://drive.google.com/file/d/11vm0n6k4tR8z98JXeScV73BTlVG4s9Ju/view?usp=sharing){:target="_blank"} | [Presentation](https://drive.google.com/file/d/1qPp-eOMebVtvs7e72K-F63vYiY_nanGP/view?usp=sharing){:target="_blank"}
 
 ---
 
@@ -34,7 +34,7 @@
 ![Python](https://img.shields.io/badge/Code-Python-blue)
 ![NLP](https://img.shields.io/badge/Topic-NLP-green)
 <img src="images/speaker_attribution.jpg"/>
-[Paper](https://drive.google.com/file/d/1ulLqka9SKXhHGgCkgiafdcBfkkEK4HdO/view?usp=sharing) | [GitHub](https://github.com/wluna01/isye-6740-project/tree/main/code)
+[Paper](https://drive.google.com/file/d/1ulLqka9SKXhHGgCkgiafdcBfkkEK4HdO/view?usp=sharing){:target="_blank"} | [GitHub](https://github.com/wluna01/isye-6740-project/tree/main/code){:target="_blank"}
 
 ---
 

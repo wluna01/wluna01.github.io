@@ -2,11 +2,12 @@ title: Will Luna # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><strong>Work</strong>  
-    <br>Data Analyst, Sanity (2020-2022)
-    <br>Analytics Engineer, Anaconda (2023-2024)
+    <br>Data Analyst, Sanity
+    <br>Analytics Engineer, Anaconda
+    <br>Data Engineer, Meta
   <br><strong>Education</strong>
-    <br>BA Cognitive Science, Tufts University (2017)
-    <br>MS Computer Science, Georgia Tech (2026)
+    <br>BA Cognitive Science, Tufts University
+    <br>MS Computer Science, Georgia Tech
   <br><a href="https://www.linkedin.com/in/willluna/" target="_blank">LinkedIn</a>
 theme: jekyll-theme-minimal
 google_analytics: UA-152639068-1 # your Google Analytics tracking ID here
