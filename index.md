@@ -2,6 +2,16 @@
 # Projects
 ---
 
+### Snowflake Notebooks Webinar
+![Python](https://img.shields.io/badge/Code-Python-blue)
+![SQL](https://img.shields.io/badge/Database-SQL-lightgrey)
+![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
+![Snowflake](https://img.shields.io/badge/Cloud-Snowflake-blue)
+<img src="images/webinar.jpg"/>
+[Presentation](https://drive.google.com/file/d/1UsG7KTrmrV3roWW57z3CoKivohnhV1w_/view?usp=sharing) | [GitHub](https://github.com/Snowflake-Labs/sf-samples/blob/main/samples/notebooks/anaconda_webinar/anaconda_webinar_notebook.ipynb)
+
+---
+
 ### Paper Replication - Predicting ICD-9 Codes from Clinical Text
 ![Python](https://img.shields.io/badge/Code-Python-blue)
 ![NLP](https://img.shields.io/badge/Topic-NLP-green)
